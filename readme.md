@@ -2,8 +2,8 @@
 
 ![Keychron K7](https://github.com/chent7/keychron_k7_optical_ansi_qmk_via/blob/master/resources/keyboard.jpeg?raw=true)
 
-Flash with [Sonix Flasher](https://github.com/SonixQMK/sonix-flasher)
-Source should be used with [SonixQMK](https://github.com/SonixQMK/qmk_firmware) and will be unmaintained from me
+Flash with [Sonix Flasher](https://github.com/SonixQMK/sonix-flasher) \
+Source should be used with [SonixQMK](https://github.com/SonixQMK/qmk_firmware) and will be unmaintained from me \
 There's no need for jumploader (You can't flash QMK without flashing over it)
 
 My mod for K7 (Optical RGB)
