@@ -1,4 +1,4 @@
-# Keychron K7
+# Keychron K7 (Optical)
 
 ![Keychron K7](https://github.com/chent7/keychron_k7_optical_ansi_qmk_via/blob/master/resources/keyboard.jpeg?raw=true)
 
